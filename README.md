@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Rohit Kumar Sah aka (@RohitSha1)
-- 👀 I’m interested in Full Stack Developemnt Using MERN Stack for Web and Flutter for mobile App.  
+- 👋 Hi, I’m Rohit Kumar Sah aka (@RohitSha1), Full Stack Developemnt Using MERN Stack for Web and Flutter for mobile App.  
 - I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
   
 - Visit my portfolio: devrohitsah.netlify.app
