@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/RohitSha1/BlogApp/blob/master/zix.jpg)](https://devrohitsah.netlify.app/)
+[![MasterHead](https://github.com/RohitSha1/BlogApp/blob/master/1.png)](https://devrohitsah.netlify.app/)
 <h1 align="center">Hi 👋, I'm Rohit Kumar Sah</h1>
 <h3 align="center">A passionate Software developer from Nepal. I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.</h3>
 
